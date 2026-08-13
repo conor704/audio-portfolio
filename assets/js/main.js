@@ -9,11 +9,10 @@
 */
 const sounds = [
   {
-    id: "interface-glitch",
-    title: "Interface Glitch",
-    description: "A temporary digital texture made from short clicks and unstable tones.",
-    src: "",
-    testSound: "glitch",
+    id: "zombie-death",
+    title: "Zombie Death",
+    description: "Sound effect created for Colony 2044.",
+    src: "assets/audio/sfx_Zombie_Death.wav",
     orbit: "horizontal",
     durationSeconds: 68,
     start: 0.07,
@@ -21,11 +20,10 @@ const sounds = [
     icon: "wave"
   },
   {
-    id: "metal-impact",
-    title: "Metal Impact",
-    description: "A temporary impact study combining a sharp attack with a low resonant tail.",
-    src: "",
-    testSound: "impact",
+    id: "quest-accept",
+    title: "Quest Accept",
+    description: "Sound effect created for Colony 2044.",
+    src: "assets/audio/sfx_Quest_accept.wav",
     orbit: "vertical",
     durationSeconds: 76,
     start: 0.35,
@@ -33,11 +31,10 @@ const sounds = [
     icon: "impact"
   },
   {
-    id: "machine-hum",
-    title: "Machine Hum",
-    description: "A temporary industrial drone with slow movement and mechanical overtones.",
-    src: "",
-    testSound: "hum",
+    id: "healing",
+    title: "Healing",
+    description: "Sound effect created for Colony 2044.",
+    src: "assets/audio/sfx_Healing.wav",
     orbit: "diagonal-down",
     durationSeconds: 84,
     start: 0.61,
@@ -45,11 +42,10 @@ const sounds = [
     icon: "bars"
   },
   {
-    id: "low-atmosphere",
-    title: "Low Atmosphere",
-    description: "A temporary environmental bed designed to suggest depth, distance, and tension.",
-    src: "",
-    testSound: "atmosphere",
+    id: "destroy-building",
+    title: "Destroy Building",
+    description: "Sound effect created for Colony 2044.",
+    src: "assets/audio/sfx_Destroy_Building.wav",
     orbit: "diagonal-up",
     durationSeconds: 91,
     start: 0.83,
@@ -57,11 +53,10 @@ const sounds = [
     icon: "rings"
   },
   {
-    id: "particle-clicks",
-    title: "Particle Clicks",
-    description: "A temporary cluster of small transient sounds arranged as a tactile texture.",
-    src: "",
-    testSound: "particles",
+    id: "taking-pill",
+    title: "Taking Pill",
+    description: "Sound effect created for Colony 2044.",
+    src: "assets/audio/sfx_Taking_Pill.wav",
     orbit: "horizontal",
     durationSeconds: 98,
     start: 0.53,

@@ -1,6 +1,6 @@
 :root {
   --ink: #111111;
-  --paper: #ffffff;
+ --paper: #f7f4ee;
   --muted: #6a6a6a;
   --orbit: rgba(17, 17, 17, 0.5);
   --edge: 28px;
@@ -405,6 +405,3 @@ a {
   .sound-card {
     transition-duration: 1ms;
   }
-}.sound-card {
-  display: none !important;
-}
